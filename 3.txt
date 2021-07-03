@@ -2,3 +2,4 @@ nhanh alpha
 nhanh main nua nhe
 them nhanh apa
 Bay gio moi la nhanh main
+Sua mot chut tren remote nhe, phai conflict chut nhe.
