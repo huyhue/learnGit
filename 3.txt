@@ -3,4 +3,4 @@ nhanh main nua nhe
 them nhanh apa
 Bay gio moi la nhanh main
 Dang o local nhe moi nguoi
-Sua o local
+Tiep tuc sua dang ow remote lan thu2
